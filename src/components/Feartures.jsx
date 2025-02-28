@@ -62,7 +62,7 @@ const Feartures = () => {
       <BentoTilt className="border-hsla relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]">
         <BentoCard
          src="videos/feature-1.mp4"
-         title={<>radi<b>n</b>t</>}
+         title={<>radia<b>n</b>t</>}
          description="A cross-platform metagame app, turning your activities across Web3 and Web3 games into a rewarding adventure."
          
         />
@@ -93,8 +93,9 @@ const Feartures = () => {
         />
           </BentoTilt>
            <div className="bento-tilt_2">
-    <div className="flex size-full flex-col justify-between bg-violet-300 p-5 ">
+    <div className="flex size-full flex-co justify-between bg-violet-300 p-5 ">
     <h1 className="bento-title special-font max-w-64 text-black">M<b>o</b>re co<b>m</b>ing s<b>o</b>on!</h1>
+         <img src="img/thunder.png"/>
     </div>
     </div>
      <div  className="bento-tilt_2">

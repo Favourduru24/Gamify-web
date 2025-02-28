@@ -4,6 +4,9 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+  scroll-behaivour: 'smooth'
+}
 body {
   width: 100dvw;
   overflow-x: hidden;
